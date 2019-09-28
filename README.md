@@ -20,5 +20,5 @@ BillMD a tool for consolidating healthcare payment.
 - Reminder Follow Up Date Insurance
 - Reminder Follow Up Date Provider
 - Procedure / Services
-- Service Lineament 
+- Service Line
 
